@@ -9,6 +9,8 @@ This is a simple Todo List web application built using React. It allows you to k
 - Mark tasks as complete.
 - Delete tasks from the list.
 
+!['main-photo'](https://github.com/Jwheels/react-todo-app/blob/main/photos/todo-image.png?raw=true)
+
 ## Installation
 
 To run this app on your local machine, follow these steps:
